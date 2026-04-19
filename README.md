@@ -4,7 +4,7 @@ My old portfolio project from 2019.
 
 Simple gantt chart.
 
-[DEMO](https://danipas256.github.io/Gantt/)
+[DEMO](https://danipas256.github.io/Angular-Gantt/)
 
 # Features
 
